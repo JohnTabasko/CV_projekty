@@ -1,0 +1,5 @@
+#Maciej Kowalski urodziny: 1970-12-01 imieniny: 12-03 <kolega z pracy> [jpg.jpg]
+#Wojciech Nowak urodziny: 1975-8-05 imieniny: 11-03 <kolega> [jpg2.jpg]
+#Andrzej Soltysik urodziny: 1976-9-02 imieniny: 7-04 <praca> [jpg3.jpg]
+#Natalia Przybysz urodziny: 1990-10-06 imieniny: 4-08 <dom> [jpg4.jpg]
+#Andrzej Soltysik urodziny: 1976-4-10 imieniny: 2-09 <remont> [jpg5.jpg]
